@@ -57,19 +57,11 @@ export const Curriculum = () => {
           <div>
             <h2 className='fx-h2'>Cursos</h2>
             <p>
-              Platzi | Crehana
+              CUN | Corporación Unificada Nacional de Educación Superior
               <br/>
-              <a href='https://drive.google.com/drive/folders/1Pa-LkKP-G0UXydxS-q-P-kLN05Zi31gJ'>HTML, CSS, JavaScript, Git & GitHub, Figma</a>
+              2023
               <br/>
-              Domestika
-              <br/>
-              <a href='https://drive.google.com/drive/folders/1Qlq8awkbWnHnYD0Z7M9TjDtNhcjRlnBc'>HTML, CSS, JavaScript, Git & GitHub, Figma</a>
-              <br/>
-              Diseño, Ilustrator.
-              <br/><br/>
-              FreeCodeCamp
-              <br/>
-              JavaScript Algorithms and Data Structures
+              Ingeniería de Sistemas
              
             </p>
           </div>
