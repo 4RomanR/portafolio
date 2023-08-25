@@ -35,8 +35,20 @@ export const Curriculum = () => {
             <br/>
             Desarrollo de página WordPress, Woocommerce, Elementor, DIVI
           </p>
+          
           <div>
             <h2 className='fx-h2'>Estudios</h2>
+            <p>
+              CUN | Corporación Unificada Nacional de Educación Superior
+              <br/>
+              2023
+              <br/>
+              Ingeniería de Sistemas
+             
+            </p>
+          </div>
+          <div>
+            <h2 className='fx-h2'>Cursos</h2>
             <p>
               Platzi | Crehana
               <br/>
@@ -54,18 +66,6 @@ export const Curriculum = () => {
              
             </p>
           </div>
-          <div>
-            <h2 className='fx-h2'>Cursos</h2>
-            <p>
-              CUN | Corporación Unificada Nacional de Educación Superior
-              <br/>
-              2023
-              <br/>
-              Ingeniería de Sistemas
-             
-            </p>
-          </div>
-
         </div>
 
 

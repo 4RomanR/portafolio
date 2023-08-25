@@ -7,6 +7,7 @@ import { Curriculum } from '../components/Curriculum';
 import { Contacto } from '../components/Contacto';
 import { Portafolio } from '../components/Portafolio';
 import { Footer } from '../components/layout/Footer';
+import { Proyecto } from '../components/Proyecto';
 
 
 export const MisRutas = () => {
@@ -23,6 +24,13 @@ export const MisRutas = () => {
             <Route path='/curriculum' element={<Curriculum/>}/>
             <Route path='/contacto' element={<Contacto/>}/>
             <Route path='/portafolio' element={<Portafolio/>}/>
+            <Route path='/proyecto/:id' element={<Proyecto/>}/>;
+            <Route path='*' element={
+              <div>
+                  <h1 className='fx-h1'>Error 404</h1>
+              </div>
+            }>
+            </Route>
         </Routes>
     
     <Footer/>
